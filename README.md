@@ -1,2 +1,2 @@
 # Toeic-Training-Chatbot
-I'm Khanh Qui
+Connect to Chatfuel
