@@ -1,2 +1,2 @@
-# Toeic-Training-Chatbot
+# toeic-training-chatbot
 Connect to Chatfuel
